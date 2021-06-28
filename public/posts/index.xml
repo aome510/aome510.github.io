@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AOME Website</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on AOME Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jun 2021 15:33:47 +0900</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Mon, 28 Jun 2021 15:33:47 +0900</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
