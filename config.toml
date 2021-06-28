@@ -1,4 +1,4 @@
-baseURL = "http://aome510.github.io/"
+baseURL = "https://aome510.github.io/"
 languageCode = "en-us"
 title = "AOME Website"
 theme = "ananke"
