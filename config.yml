@@ -1,0 +1,18 @@
+baseURL: "https://aome510.github.io/"
+title: "AOWeb"
+theme: "PaperMod"
+
+params:
+  disableSpecial1stPost: true
+  ShowBreadCrumbs: true
+  images: ["4leaf.png"]
+
+  profileMode:
+    enabled: true
+    title: "Thang Pham"
+    subtitle: "Keep learning... It's never enough."
+    imageUrl: "4leaf.png"
+
+    buttons:
+      - name: "Posts"
+        url: "/posts"
