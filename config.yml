@@ -1,18 +1,32 @@
 baseURL: "https://aome510.github.io/"
 title: "AOWeb"
 theme: "PaperMod"
+enableEmoji: true
 
 params:
   disableSpecial1stPost: true
   ShowBreadCrumbs: true
-  images: ["4leaf.png"]
 
   profileMode:
     enabled: true
     title: "Thang Pham"
-    subtitle: "Keep learning... It's never enough."
+    subtitle: "Keep learning... It's never enough.\n\n🏫 CS @ University of Waterloo"
     imageUrl: "4leaf.png"
 
     buttons:
+      - name: "About"
+        url: "/about"
+      - name: "Resume"
+        url: "/resume.pdf"
       - name: "Posts"
         url: "/posts"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/aome510"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/aome510/"
+    - name: "email"
+      url: "mailto:phamducthang1234@gmail.com"
+    - name: "reddit"
+      url: "https://www.reddit.com/user/aome510"
