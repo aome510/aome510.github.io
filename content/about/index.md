@@ -3,15 +3,11 @@ title: "About"
 ShowBreadCrumbs: false
 ---
 
-Hi, my name is Thang Pham, aka [**aome**](github.com/aome510). I'm currently a third-year student at University of Waterloo studying Computer Science.
+Hi there! My name is Thang Pham, aka [**aome**](github.com/aome510). I'm currently a third-year student at University of Waterloo studying Computer Science.
 
 My current field of interest ranges from software development to robotics, automation, and embedded programming. I love building things and experimenting with new technology.
 
-My dream is to contribute to building robots that can make people's lives better. I'm heavily inspired by my favorite childhood manga [Doraemon](https://doraemon.fandom.com/wiki/Doraemon_Wiki).
-
-![Doraemon](doraemon.jpg)
-
-My motto is _never stop learning to become a better version of yourself everyday_.
+My motto is **_never stop learning to become a better version of yourself everyday_**.
 
 > "Live as if you were to die tomorrow. Learn as if you were to live forever.”
 >
