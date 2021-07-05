@@ -3,7 +3,7 @@ title: "About"
 ShowBreadCrumbs: false
 ---
 
-Hi there! My name is Thang Pham, aka [**aome**](github.com/aome510). I'm currently a third-year student at University of Waterloo studying Computer Science.
+Hi there! I'm Thang Pham, aka [**aome**](github.com/aome510). I'm currently a third-year student at University of Waterloo studying Computer Science.
 
 My current field of interest ranges from software development to robotics, automation, and embedded programming. I love building things and experimenting with new technology.
 
