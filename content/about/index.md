@@ -3,7 +3,7 @@ title: "About"
 ShowBreadCrumbs: false
 ---
 
-Hi there! I'm Thang Pham, aka [**aome**](github.com/aome510). I'm currently a third-year student at University of Waterloo studying Computer Science.
+Hi there! I'm Thang Pham, aka [**aome**](https://github.com/aome510). I'm currently a third-year student at University of Waterloo studying Computer Science.
 
 My current field of interest ranges from software development to robotics, automation, and embedded programming. I love building things and experimenting with new technology.
 
@@ -13,7 +13,7 @@ My motto is **_never stop learning to become a better version of yourself everyd
 >
 > \- Mahatma Gandhi
 
-In my free time, I read tech news and blog posts on [Reddit](old.reddit.com/), [Lobster](lobste.rs/), and [Hacker News](https://news.ycombinator.com/), listen to [music](https://open.spotify.com/user/31bewedqaetpovv3yqnw44jtphsy), and read [books](https://www.goodreads.com/review/list/132793035-thang-pham). I also watch Korean reality shows or read Japanese mangas for stress relief.
+In my free time, I read tech news and blog posts on [Reddit](https://old.reddit.com/), [Lobster](https://lobste.rs/), and [Hacker News](https://news.ycombinator.com/), listen to [music](https://open.spotify.com/user/31bewedqaetpovv3yqnw44jtphsy), and read [books](https://www.goodreads.com/review/list/132793035-thang-pham). I also watch Korean reality shows or read Japanese mangas for stress relief.
 
 Other facts about me:
 
