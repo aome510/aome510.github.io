@@ -2,13 +2,13 @@
 title: "TIL"
 draft: false
 author: "AOME"
-description: "My own collection of TILs"
+description: "My own collection of tech-related TILs"
 showtoc: true
 ---
 
 This is a collection of **T**oday **I** **L**earned(s) inspired by [TIL](https://github.com/jbranchaud/til).
 
-The **TIL** collection is a place where I wrote down things that I learn everyday. It also serves as a small wikipedia for future references and learning.
+The **TIL** collection is a place where I wrote down things that I learn everyday. It also serves as my own small Wiki for future references and learning.
 
 ## General Programming
 
@@ -52,6 +52,12 @@ The **TIL** collection is a place where I wrote down things that I learn everyda
 - [Trait object (Rust Book)](https://doc.rust-lang.org/book/ch17-02-trait-objects.html)
 - [Generic Types, Traits (Rust Book)](https://doc.rust-lang.org/book/ch10-00-generics.html)
 
+## Programming Languages
+
+### Rust
+
+TBA...
+
 ## Database
 
 ### ORM (Object–relational mapping)
@@ -67,9 +73,13 @@ Traditional SQL is dry (don't repeat yourself), using ORM can help reduce code d
 
 ## Networking
 
-## Virtualization
+TBA...
 
-## Unix/Linux
+## Virtualization/Cloud Computing
+
+TBA...
+
+## Unix/Linux/OS/Computer Architecture
 
 ### Memory management
 
@@ -80,12 +90,21 @@ Traditional SQL is dry (don't repeat yourself), using ORM can help reduce code d
 
 - [PostgreSQL, Memory and the Cloud (Blog)](https://sosna.de/posts/pgaas-memory-overcommit/)
 
-### Linux terms/definitions
+### Terms/definitions
 
+- [Inter-process communication (IPC)](https://en.wikipedia.org/wiki/Inter-process_communication) is a mechanism that allows progresses to communicate with each other usually through shared states or message passing/streaming.
+- [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel) is an operating system architecture that holds a privilege access through a number of components such as process management, file system, I/O, hardware, etc. This model differs than other architectures such as [Microkernel](https://en.wikipedia.org/wiki/Microkernel) (which provides "_only a near-minimum amount of software_" to implement an OS) or [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel) (which tries to combines the benefits of both **Microkernel** and **Monolithic kernel**).
 - [Kernel-based Virtual Machine (KVM)](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) is "_is a virtualization module in the Linux kernel that allows the kernel to function as a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor)._"
 - [Seccomp (secure computing mode)](https://en.wikipedia.org/wiki/Seccomp) is a secure mode that creates a sandbox in which a progress cannot make any system calls except `exit`, `read`, `write` and `sigreturn`. **seccomp-bpf** is an extension of **seccomp** that allows filtering system calls with [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter).
 - [Kernel mode setting (KMS)](https://wiki.archlinux.org/title/Kernel_mode_setting) is "_a method for setting display resolution and depth in the kernel space rather than user space. [It] enables native resolution in the framebuffer and allows for instant console (tty) switching._"
 - [Linux control groups (cgroups)](https://en.wikipedia.org/wiki/Cgroups) is a feature used to manage the resource usage of a collection of processes. `cgroups` provides **resource limiting**, **resource prioritizing**, **resource accounting**, and **resource control** features.
+
+## Cryptography
+
+### Terms/Definitions
+
+- [Message authentication code (MAC)](https://en.wikipedia.org/wiki/Message_authentication_code) is a code used to authenticate a message in order to confirm that the message is from a corresponding sender and has not been tampered. Normally, a MAC system consists of three algorithms which includes key-generation, singing, and verifying.
+- [Hash-based message authentication code (HMAC)](https://en.wikipedia.org/wiki/HMAC) is "_a specific type of MAC involving a cryptographic hash function and a [shared] secret cryptographic key._" HMAC computes the hash in two passes. The secret is used to derive two keys, inner and outer. The first pass involves hashing the message with the inner key. The hash result is then used to produce the final result with the outer key.
 
 ## Other terms/definitions
 
@@ -94,5 +113,9 @@ Traditional SQL is dry (don't repeat yourself), using ORM can help reduce code d
 - [DRM (Digital rights management )](https://en.wikipedia.org/wiki/Digital_rights_management) is a set of technologies for restricting the use of copyrighted works (normally software or digital assets).
 - [GDPR (General Data Protection Regulation)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) is "_a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA)._"
 - [401(k) program](<https://en.wikipedia.org/wiki/401(k)>) is an "_employer-sponsored defined-contribution pension account_" which employees can contribute to using their paycheck. Employers can also make contributions to the account by [matching](https://www.investopedia.com/articles/personal-finance/112315/how-401k-matching-works.asp).
+
+## Misc
+
+- [Kubernetes](https://kubernetes.io/) is also called K8s which stands for "the letter K followed by 8 characters then ends with letter s". This is also similar to Internationalization (i18n).
 
 To be updated...
