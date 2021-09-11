@@ -7,6 +7,9 @@ params:
   disableSpecial1stPost: true
   ShowBreadCrumbs: true
 
+  assets:
+    favicon: "/favicon.ico"
+
   profileMode:
     enabled: true
     title: "Thang Pham"
