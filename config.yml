@@ -13,7 +13,7 @@ params:
   profileMode:
     enabled: true
     title: "Thang Pham"
-    subtitle: "Keep learning... It's never enough.\n\n🏫 CS @ University of Waterloo"
+    subtitle: "Keep learning... It's never enough.\n\n🤖 Building next-generation self-driving trucks at [Waabi AI](https://waabi.ai)"
     imageUrl: "4leaf.png"
 
     buttons:
